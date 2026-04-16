@@ -928,7 +928,7 @@ function openMoeGuideDocPreview(docFileName) {
   if (!wrap || !frame || !tip || !frameWrap) return;
 
   if (dl) {
-    dl.href = name;
+    dl.href = resolveSiteAssetUrl(name);
     dl.textContent = `下载 ${name}`;
   }
 
@@ -944,7 +944,7 @@ function openMoeGuideDocPreview(docFileName) {
     return;
   }
 
-  const abs = new URL(name, window.location.href).href;
+  const abs = resolveSiteAssetUrl(name);
   frameWrap.hidden = false;
   tip.hidden = true;
   frame.style.display = 'block';
@@ -1232,13 +1232,26 @@ function handleSearch(e) {
   }
 }
 
+/**
+ * 项目站（如 GitHub Pages）地址常为 …/repo 无末尾 /，此时 fetch('books.json') 会错解析到 …/books.json。
+ * 返回与当前「站点目录」一致的绝对 URL。
+ */
+function resolveSiteAssetUrl(filename) {
+  let pathname = window.location.pathname || '/';
+  if (!pathname.endsWith('/')) {
+    const lastSeg = pathname.split('/').pop() || '';
+    pathname = lastSeg.includes('.') ? pathname.replace(/\/[^/]+$/, '/') : `${pathname}/`;
+  }
+  return new URL(filename, `${window.location.origin}${pathname}`).href;
+}
+
 async function loadBookData() {
   const controller = new AbortController();
   const timeoutMs = 25000;
   const timer = setTimeout(() => controller.abort(), timeoutMs);
   let res;
   try {
-    res = await fetch('books.json', { cache: 'no-store', signal: controller.signal });
+    res = await fetch(resolveSiteAssetUrl('books.json'), { cache: 'no-store', signal: controller.signal });
   } finally {
     clearTimeout(timer);
   }
@@ -1273,7 +1286,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       if (isGithubPages) {
         msg +=
           ' 若仅手机流量打不开、Wi-Fi 可以，多半是运营商访问 github.io 不稳定；可换网络、用系统自带浏览器（少在微信里直接打开），或稍后再试。也可在手机浏览器单独打开：' +
-          new URL('books.json', window.location.href).href +
+          resolveSiteAssetUrl('books.json') +
           ' 看是否能下载 JSON。';
       } else if (isLocal) {
         msg =
