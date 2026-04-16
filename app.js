@@ -504,9 +504,12 @@ function filterBooks() {
 
 // ===== 渲染函数 =====
 function renderBookCard(book) {
-  const awardBadge = book.awards && book.awards.length > 0
-    ? `<span class="badge">${escHtml(book.awards[0].length > 10 ? book.awards[0].substring(0, 8) + '…' : book.awards[0])}</span>`
-    : '';
+  const awardLine =
+    book.awards && book.awards.length > 0
+      ? `<p class="book-card-award-line" title="${escHtml(book.awards[0])}">🏆 ${escHtml(
+          book.awards[0].length > 22 ? book.awards[0].substring(0, 20) + '…' : book.awards[0]
+        )}</p>`
+      : '';
   const rs = getReadStatus(book);
   const markBtns =
     rs === 'unread'
@@ -532,12 +535,12 @@ function renderBookCard(book) {
   return `
     <div class="book-card" data-book-id="${book.id}">
       <button type="button" class="book-card__main">
-        <div class="book-cover" style="background:${escHtml(book.coverBg)}">
-          <span class="book-cover-emoji" aria-hidden="true">${book.emoji || '📖'}</span>
-          ${awardBadge}
+        <div class="book-cover" aria-hidden="true">
+          <span class="book-cover-emoji">${book.emoji || '📖'}</span>
         </div>
         <div class="book-info">
-          <h4>${escHtml(book.title)}</h4>
+          <h4 class="book-title">${escHtml(book.title)}</h4>
+          ${awardLine}
           <div class="author">${escHtml(book.author || '')}</div>
           <div class="tags">
             ${readStatusChipHtml(book)}
@@ -1244,7 +1247,15 @@ function handleSearch(e) {
 }
 
 async function loadBookData() {
-  const res = await fetch('books.json', { cache: 'no-store' });
+  const controller = new AbortController();
+  const timeoutMs = 25000;
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  let res;
+  try {
+    res = await fetch('books.json', { cache: 'no-store', signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
   if (!res.ok) throw new Error('books.json HTTP ' + res.status);
   BASE_BOOKS = await res.json();
   BOOKS = mergeBaseWithCustom();
@@ -1265,8 +1276,27 @@ document.addEventListener('DOMContentLoaded', async () => {
     const main = document.getElementById('app-main');
     if (main) {
       const err = document.createElement('div');
-      err.style.cssText = 'background:#FED7D7;color:#822727;padding:10px 16px;text-align:center;font-size:14px;';
-      err.textContent = '无法加载 books.json。请在本目录运行：python3 -m http.server 8080，再用浏览器打开 http://127.0.0.1:8080/（不要直接双击打开网页文件）。';
+      err.style.cssText =
+        'background:#FED7D7;color:#822727;padding:12px 16px;text-align:center;font-size:14px;line-height:1.55;max-width:40rem;margin:0 auto;';
+      const host = String(window.location.hostname || '');
+      const isGithubPages = host.endsWith('github.io');
+      const isLocal =
+        host === 'localhost' || host === '127.0.0.1' || host === '' || window.location.protocol === 'file:';
+      let msg =
+        '无法加载书目数据（books.json）。请检查网络后刷新页面。';
+      if (isGithubPages) {
+        msg +=
+          ' 若仅手机流量打不开、Wi-Fi 可以，多半是运营商访问 github.io 不稳定；可换网络、用系统自带浏览器（少在微信里直接打开），或稍后再试。也可在手机浏览器单独打开：' +
+          new URL('books.json', window.location.href).href +
+          ' 看是否能下载 JSON。';
+      } else if (isLocal) {
+        msg =
+          '无法加载 books.json。请在本目录运行：python3 -m http.server 8080，再用浏览器打开 http://127.0.0.1:8080/（不要直接双击打开网页文件）。';
+      }
+      if (e && e.name === 'AbortError') {
+        msg = '加载书目超时（约 25 秒）。' + (isGithubPages ? ' 建议换 Wi-Fi 或浏览器后重试。' : '') + msg;
+      }
+      err.textContent = msg;
       main.prepend(err);
     }
   }
