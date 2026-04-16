@@ -99,6 +99,13 @@ let currentNewsArticleId = null;
 /** 站内《3-6发展指南》Word 文件名（与仓库根目录文件一致） */
 const MOE_GUIDE_DOC_NAME = '3-6发展指南.doc';
 
+/**
+ * 部分手机 4G 对 github.io 不稳定，书目拉取失败时用 jsDelivr 从公开仓读同一份 books.json（与 Pages 同源数据）。
+ * 若改名/换仓，请同步改此 URL（@ 后为分支名，一般为 main）。
+ */
+const BOOKS_JSON_CDN_FALLBACK =
+  'https://cdn.jsdelivr.net/gh/lovedoudou2020/doudou-picture-books@main/books.json';
+
 /** 脚本从公开书单补充的书（与家庭 CSV 去重），见「网上新书」页 */
 function isWebCuratedBook(book) {
   return book && book.dataSource === 'web_curated';
@@ -1246,18 +1253,34 @@ function resolveSiteAssetUrl(filename) {
 }
 
 async function loadBookData() {
-  const controller = new AbortController();
-  const timeoutMs = 25000;
-  const timer = setTimeout(() => controller.abort(), timeoutMs);
-  let res;
-  try {
-    res = await fetch(resolveSiteAssetUrl('books.json'), { cache: 'no-store', signal: controller.signal });
-  } finally {
-    clearTimeout(timer);
+  const tryUrls = [resolveSiteAssetUrl('books.json'), BOOKS_JSON_CDN_FALLBACK];
+  let lastErr = null;
+  for (let i = 0; i < tryUrls.length; i++) {
+    const url = tryUrls[i];
+    const controller = new AbortController();
+    const timeoutMs = 22000;
+    const timer = setTimeout(() => controller.abort(), timeoutMs);
+    try {
+      const res = await fetch(url, { cache: 'no-store', signal: controller.signal });
+      clearTimeout(timer);
+      if (!res.ok) {
+        lastErr = new Error(`books.json HTTP ${res.status}`);
+        continue;
+      }
+      const data = await res.json();
+      if (!Array.isArray(data)) {
+        lastErr = new Error('books.json 格式异常');
+        continue;
+      }
+      BASE_BOOKS = data;
+      BOOKS = mergeBaseWithCustom();
+      return;
+    } catch (e) {
+      clearTimeout(timer);
+      lastErr = e;
+    }
   }
-  if (!res.ok) throw new Error('books.json HTTP ' + res.status);
-  BASE_BOOKS = await res.json();
-  BOOKS = mergeBaseWithCustom();
+  throw lastErr || new Error('books.json');
 }
 
 // ===== 初始化 =====
@@ -1285,9 +1308,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         '无法加载书目数据（books.json）。请检查网络后刷新页面。';
       if (isGithubPages) {
         msg +=
-          ' 若仅手机流量打不开、Wi-Fi 可以，多半是运营商访问 github.io 不稳定；可换网络、用系统自带浏览器（少在微信里直接打开），或稍后再试。也可在手机浏览器单独打开：' +
-          resolveSiteAssetUrl('books.json') +
-          ' 看是否能下载 JSON。';
+          ' 若仅 4G 打不开、Wi-Fi 可以，多半是运营商对 github.io 限制；站点已自动尝试备用线路，仍失败时可换网络或稍后再试。主地址：' +
+          resolveSiteAssetUrl('books.json');
       } else if (isLocal) {
         msg =
           '无法加载 books.json。请在本目录运行：python3 -m http.server 8080，再用浏览器打开 http://127.0.0.1:8080/（不要直接双击打开网页文件）。';
