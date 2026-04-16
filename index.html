@@ -95,6 +95,21 @@
       <div class="page-stats-bar page-stats-bar--hero" id="home-hero-stats" aria-label="书库统计"></div>
     </section>
 
+    <!-- 首页搜索：仅展示单一结果列表（全库匹配） -->
+    <div id="home-search-panel" class="home-search-panel" hidden>
+      <section class="section home-search-section">
+        <div class="container">
+          <div class="section-title">
+            <h2>🔍 搜索结果</h2>
+            <p class="home-search-note">与侧栏搜索词匹配的书目（全库）；清空搜索框可恢复下方各分区。</p>
+          </div>
+          <div class="page-stats-bar" id="home-search-stats" aria-label="搜索结果统计"></div>
+          <div class="book-grid" id="home-search-grid"></div>
+        </div>
+      </section>
+    </div>
+
+    <div id="home-default-book-blocks">
     <!-- 🆕 最新上架 -->
     <section class="section" style="background: linear-gradient(180deg, #EDE9FE 0%, var(--bg) 100%);">
       <div class="container">
@@ -201,6 +216,8 @@
         </div>
       </div>
     </section>
+    </div><!-- #home-default-book-blocks -->
+
   </div>
 
   <!-- ==================== 我的书库 ==================== -->

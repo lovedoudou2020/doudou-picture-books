@@ -67,6 +67,7 @@ function renderEmptyBookGridHtml(context) {
     homeFeatured: '获奖精选里暂时没有找到书，书库里还有更多宝藏。',
     homeChinese: '原创精选暂空，去「中国原创」页或书库慢慢挑。',
     homeTheme: '当前主题下暂时没有书，换个主题按钮，或去书库逛逛。',
+    homeSearch: '没有找到与当前搜索词匹配的书，换个关键词或清空搜索试试。',
     default: '暂时没有找到符合条件的绘本，放宽筛选或去书库瞧瞧？',
   };
   const hint = copy[context] || copy.default;
@@ -603,6 +604,26 @@ function updateReadBatchBar() {
 function renderHomePage() {
   const g = getAggregatedStats(BOOKS);
   setStatsBar('home-hero-stats', statLineFromStats(g));
+
+  const searchPanel = document.getElementById('home-search-panel');
+  const defaultBlocks = document.getElementById('home-default-book-blocks');
+  const q = (searchQuery || '').trim();
+  if (currentPage === 'home' && q) {
+    if (searchPanel) searchPanel.hidden = false;
+    if (defaultBlocks) defaultBlocks.hidden = true;
+    const books = BOOKS.filter(b => matchSearch(b, q));
+    renderBookGrid(books, 'home-search-grid', 'homeSearch');
+    setStatsBar(
+      'home-search-stats',
+      statLineFromStats(getAggregatedStats(books), [
+        ['搜索', `「${escHtml(q)}」`],
+        ['匹配', `${books.length} 条 · ${sumVolumes(books)} 册`],
+      ])
+    );
+    return;
+  }
+  if (searchPanel) searchPanel.hidden = true;
+  if (defaultBlocks) defaultBlocks.hidden = false;
 
   // 最新上架：脚本从公开书单补充的绘本
   const newBooksAll = BOOKS.filter(b => isWebCuratedBook(b));
@@ -1197,42 +1218,7 @@ function toggleSidebarDrawer() {
 function handleSearch(e) {
   searchQuery = e.target.value.trim();
   if (currentPage === 'home') {
-    if (searchQuery) {
-      const books = BOOKS.filter(b => matchSearch(b, searchQuery));
-      renderBookGrid(books, 'featured-books', 'homeFeatured');
-      const featC = countReadInList(books);
-      setStatsBar(
-        'home-featured-stats',
-        statLineFromStats(
-          statsMetricsFromBooks(books),
-          [['搜索', `「${escHtml(searchQuery)}」匹配 ${sumVolumes(books)} 册（${books.length} 条）`]]
-        )
-      );
-      const chBooks = books.filter(b => b.origin === '中国');
-      renderBookGrid(chBooks, 'chinese-books', 'homeChinese');
-      const chC = countReadInList(chBooks);
-      setStatsBar(
-        'home-chinese-stats',
-        statLineFromStats(
-          statsMetricsFromBooks(chBooks),
-          [['搜索内原创', `${sumVolumes(chBooks)} 册（${chBooks.length} 条）`]]
-        )
-      );
-      const newB = books.filter(isWebCuratedBook).slice(0, 8);
-      renderBookGrid(newB, 'new-books', 'homeNew');
-      const nAllList = books.filter(isWebCuratedBook);
-      const nC = countReadInList(newB);
-      setStatsBar(
-        'home-new-stats',
-        statLineFromStats(
-          statsMetricsFromBooks(newB),
-          [['搜索内网上新书', `展示 ${newB.length} 条（匹配 ${nAllList.length} 条 · 合 ${sumVolumes(nAllList)} 册）`]]
-        )
-      );
-      renderHomeThemeBookGrid();
-    } else {
-      renderHomePage();
-    }
+    renderHomePage();
   } else if (currentPage === 'theme') {
     renderThemePage(currentThemeFilter);
   } else if (currentPage === 'library') {

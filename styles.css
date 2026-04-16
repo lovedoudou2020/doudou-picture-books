@@ -1453,6 +1453,17 @@ body.has-read-batch-bar #app-main {
   margin-top: 0.35rem;
 }
 
+.home-search-note {
+  font-size: 0.88rem;
+  color: var(--text-light);
+  line-height: 1.55;
+  max-width: 40rem;
+  margin: 0.25rem auto 0;
+}
+.home-search-section {
+  background: linear-gradient(180deg, #f0f9ff 0%, var(--bg) 100%);
+}
+
 .theme-tag-bar {
   display: flex; flex-wrap: wrap; gap: 8px;
   justify-content: center; margin-bottom: 1.75rem;
