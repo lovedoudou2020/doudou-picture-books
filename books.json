@@ -1,0 +1,3716 @@
+[
+  {
+    "id": 1,
+    "title": "小兔子学还钱/小兔子学赚钱/小兔子学捐钱/小兔子学存钱",
+    "author": "[加]辛德斯·麦克劳德 文/图（余治莹 译，《小兔子学花钱》系列）",
+    "country": "海外",
+    "emoji": "⭐",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "习惯养成"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "财商类主题。约 4 册（套）。",
+    "whyRead": "财商方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 4
+  },
+  {
+    "id": 2,
+    "title": "小怪兽学开店",
+    "author": "恐龙小Q童书 编著（《怪兽商业街：从小学经营》系列）",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "习惯养成"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "财商类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "财商方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 3,
+    "title": "宝宝读西游",
+    "author": "狐狸家 编著（《西游记绘本》等常见幼儿版；具体以实书为准）",
+    "country": "中国",
+    "emoji": "🐟",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "传统文化"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "传统文化类主题。",
+    "whyRead": "传统文化方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "中国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 4,
+    "title": "哪吒不好惹",
+    "author": "上尚也 编著（《这里有神仙》系列，童趣出版）",
+    "country": "中国",
+    "emoji": "🎒",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "传统文化"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "传统文化类主题。",
+    "whyRead": "传统文化方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "中国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 5,
+    "title": "北极熊",
+    "author": "[英]珍妮·德斯蒙德 文/图（科普绘本《北极熊》，多版本引进）",
+    "country": "海外",
+    "emoji": "📖",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "动物类主题。约 1 册（套）。",
+    "whyRead": "动物方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 6,
+    "title": "鲸鱼",
+    "author": "[日]五味太郎 文/图",
+    "country": "海外",
+    "emoji": "📖",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "动物类主题。约 1 册（套）。",
+    "whyRead": "动物方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 7,
+    "title": "鼹鼠的故事",
+    "author": "[捷克]兹德涅克·米勒 绘",
+    "country": "海外",
+    "emoji": "🐰",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 10 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 10
+  },
+  {
+    "id": 8,
+    "title": "11只猫系列，共6本",
+    "author": "[日]马场登 文/图",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "《11只猫》系列共 6 册，马场登经典幽默绘本。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 6
+  },
+  {
+    "id": 9,
+    "title": "14只老鼠",
+    "author": "[日]岩村和朗 文 / 佐竹美保 图",
+    "country": "海外",
+    "emoji": "🐰",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 10,
+    "title": "老狼老狼几点了",
+    "author": "[英]戴比·葛莉欧利 文/图",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 11,
+    "title": "巴巴爸爸经典系列",
+    "author": "[法]安娜特·缇森、德鲁斯·泰勒 文/图",
+    "country": "海外",
+    "emoji": "⭐",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 12,
+    "title": "波西和皮普",
+    "author": "[英]阿克塞尔·舍夫勒 文/图",
+    "country": "海外",
+    "emoji": "⭐",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 13,
+    "title": "彩虹色的花",
+    "author": "[波兰]麦克·格雷涅茨 文/图",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 14,
+    "title": "迟到大王",
+    "author": "[英]约翰·柏林罕 文/图",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 15,
+    "title": "是谁嗯嗯在我头上",
+    "author": "[德]维尔纳·霍尔茨瓦特 文 / [德]沃尔夫·埃布鲁赫 图",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 16,
+    "title": "母鸡萝丝去散步",
+    "author": "[美]佩特·哈群斯 文/图",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 17,
+    "title": "歪歪兔领导力绘本",
+    "author": "歪歪兔关键期早教项目组 编绘",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 18,
+    "title": "不一样的卡梅拉",
+    "author": "[法]克利斯提昂·约里波瓦 文 / 克利斯提昂·艾利施 图",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#EDE9FE",
+    "age": "5-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 19,
+    "title": "帕西爷爷有办法",
+    "author": "[英]尼克·巴特沃斯 文/图",
+    "country": "海外",
+    "emoji": "⭐",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 20,
+    "title": "胖龙蓝蓝",
+    "author": "[美]戴夫·皮尔奇 文/图",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#EDE9FE",
+    "age": "5-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 21,
+    "title": "100层系列",
+    "author": "[日]岩井俊雄 文/图",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 22,
+    "title": "逃跑小豌豆",
+    "author": "[英]卡奇坦·波斯基 文 / [英]K·G·坎贝尔 图",
+    "country": "海外",
+    "emoji": "📚",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 3 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 3
+  },
+  {
+    "id": 23,
+    "title": "梦想家沃夫",
+    "author": "[法]欧利亚·拉勒芒 文 / [法]艾雷欧诺尔·特威利尔 图",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 24,
+    "title": "呱呱自信的青蛙弗洛格",
+    "author": "[荷]马克斯·维尔修思 文/图",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "故事类主题。约 12 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 12
+  },
+  {
+    "id": 25,
+    "title": "我的花园有大海",
+    "author": "[斯洛伐克]卡塔琳娜·玛卡诺娃 文/图",
+    "country": "海外",
+    "emoji": "📚",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 26,
+    "title": "你为什么不开花",
+    "author": "[斯洛伐克]卡塔琳娜·玛卡诺娃 文/图",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 27,
+    "title": "西瓜小孩",
+    "author": "周雅雯 文/图（常见西瓜主题原创绘本《大西瓜》等；书名以版权页为准）",
+    "country": "海外",
+    "emoji": "🐰",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 28,
+    "title": "老鼠邮差系列",
+    "author": "[加]玛丽安娜·迪比克 文/图",
+    "country": "海外",
+    "emoji": "📖",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 3 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 3
+  },
+  {
+    "id": 29,
+    "title": "春福",
+    "author": "张越 文/图",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 30,
+    "title": "三只小龙王",
+    "author": "张越 文/图",
+    "country": "海外",
+    "emoji": "🌸",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 31,
+    "title": "你好灯塔",
+    "author": "[美]苏菲·布莱科尔 文/图",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 32,
+    "title": "野猫军团",
+    "author": "[日]工藤纪子 文/图",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 33,
+    "title": "聪明的小海狸",
+    "author": "[瑞典]拉尔斯·克林汀 文/图",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 6 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 6
+  },
+  {
+    "id": 34,
+    "title": "爱折腾的小蓝象",
+    "author": "[丹]雅各布·马丁·斯特里德 文/图",
+    "country": "海外",
+    "emoji": "🎒",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 6 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 6
+  },
+  {
+    "id": 35,
+    "title": "儿童时间管理绘本（）",
+    "author": "北京科学技术出版社 策划组 编著（幼儿时间管理类合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "🎒",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 36,
+    "title": "出发，尿尿消防队",
+    "author": "[日]古味正康 文/图",
+    "country": "海外",
+    "emoji": "🎒",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 37,
+    "title": "妈妈买绿豆",
+    "author": "曾阳晴 文 / 万华国 图",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 38,
+    "title": "最好的面包店",
+    "author": "张越 文/图",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 39,
+    "title": "宫西达也恐龙系列",
+    "author": "宫西达也",
+    "country": "海外",
+    "emoji": "🌸",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 40,
+    "title": "宫西达也小红去送货系列",
+    "author": "宫西达也",
+    "country": "海外",
+    "emoji": "📖",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 41,
+    "title": "坐着火车去探险",
+    "author": "[德]安娜·韦伯 文 / [德]克里斯蒂安·耶雷米亚斯、法比安·耶雷米亚斯 图（《出发吧，费迪南》系列）",
+    "country": "海外",
+    "emoji": "📚",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 42,
+    "title": "你好，安东医生",
+    "author": "[日]西村敏雄 文/图",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 43,
+    "title": "阿文的小毯子",
+    "author": "[美]凯文·汉克斯 文/图",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 44,
+    "title": "小步绘本（3岁前）",
+    "author": "小步亲子 选编（早教盒装合辑；各册作者见单册）",
+    "country": "海外",
+    "emoji": "🌸",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 45,
+    "title": "南瓜汤",
+    "author": "[英]海伦·库柏 文/图",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 46,
+    "title": "好饿的小蛇",
+    "author": "宫西达也",
+    "country": "海外",
+    "emoji": "📖",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [
+      "口碑必读"
+    ],
+    "readStatus": "unread",
+    "summary": "故事类主题。蒲蒲兰出版。约 1 册（套）。常被推荐的口碑书目。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 47,
+    "title": "好困的小蛇",
+    "author": "[日]宫西达也 文/图",
+    "country": "海外",
+    "emoji": "🚌",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [
+      "口碑必读"
+    ],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。常被推荐的口碑书目。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 48,
+    "title": "首先有一个苹果",
+    "author": "伊东宽",
+    "country": "海外",
+    "emoji": "📚",
+    "coverBg": "#EDE9FE",
+    "age": "3-4",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。蒲蒲兰出版。约 1 册（套）。0-4岁。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 49,
+    "title": "好朋友",
+    "author": "[日]谷川俊太郎 文 / [日]和田诚 图",
+    "country": "海外",
+    "emoji": "📖",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 50,
+    "title": "鸭子骑车记",
+    "author": "[美]大卫·香农 文/图",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 51,
+    "title": "长大以后做什么",
+    "author": "[日]寮美千子 文 / [日]秦好史郎 图",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 52,
+    "title": "小金鱼逃走了",
+    "author": "[日]五味太郎 文/图",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 53,
+    "title": "蚂蚁和西瓜",
+    "author": "[日]田村茂 文/图",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [
+      "口碑必读"
+    ],
+    "readStatus": "read",
+    "summary": "故事类主题。蒲蒲兰出版。约 1 册（套）。常被推荐的口碑书目。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 54,
+    "title": "小老鼠的漫长一夜",
+    "author": "[英]戴安娜·亨德利 文 / [英]简·查普曼 图",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。蒲蒲兰出版。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 55,
+    "title": "长颈鹿不会跳舞",
+    "author": "[英]吉尔斯·安德烈 文 / [英]盖伊·帕克-里斯 图",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 56,
+    "title": "大卫，不可以",
+    "author": "[美]大卫·香农 文/图",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 57,
+    "title": "大卫上学去",
+    "author": "[美]大卫·香农 文/图",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 58,
+    "title": "大卫惹麻烦",
+    "author": "[美]大卫·香农 文/图",
+    "country": "海外",
+    "emoji": "📖",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 59,
+    "title": "我妈妈",
+    "author": "[英]安东尼·布朗 文/图",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 60,
+    "title": "我爸爸",
+    "author": "[英]安东尼·布朗 文/图",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 61,
+    "title": "花婆婆",
+    "author": "[美]芭芭拉·库尼 文/图",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 62,
+    "title": "月亮的味道",
+    "author": "[瑞士]麦克·格雷涅茨 文/图",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 63,
+    "title": "第一次上街买东西",
+    "author": "[日]林明子 文/图",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 64,
+    "title": "爷爷一定有办法",
+    "author": "[加]菲比·吉尔曼 文/图",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 65,
+    "title": "小老鼠忙碌的一天",
+    "author": "[英]戴安娜·亨德利 文 / [英]简·查普曼 图",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 66,
+    "title": "可以不睡觉一直玩吗",
+    "author": "小杨叔叔 文 / 赵一迪 图",
+    "country": "海外",
+    "emoji": "⭐",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 67,
+    "title": "好吃的苹果车/好吃的地瓜车/好吃的西瓜车/",
+    "author": "[日]宫西达也 文/图（《神奇系列》常见套装）",
+    "country": "海外",
+    "emoji": "⭐",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 68,
+    "title": "西兰花先生的理发店",
+    "author": "[日]福田纯子 文/图",
+    "country": "海外",
+    "emoji": "🐰",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 69,
+    "title": "企鹅旅馆系列",
+    "author": "[日]牛窪良太 文/图",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 3 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 3
+  },
+  {
+    "id": 70,
+    "title": "螃蟹的生意",
+    "author": "[日]新井洋行 文/图",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "故事类主题。约 1 册（套）。",
+    "whyRead": "故事方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 71,
+    "title": "不可以浪费",
+    "author": "日本儿童绘本工作室 编绘（环保类合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "📚",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [
+      "口碑必读"
+    ],
+    "readStatus": "unread",
+    "summary": "环保类主题。约 6 册（套）。常被推荐的口碑书目。",
+    "whyRead": "环保方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 6
+  },
+  {
+    "id": 72,
+    "title": "万能工程师麦克",
+    "author": "[瑞典]乔治·约翰逊 文 / [瑞典]耶特·卡特 图",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "机械类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "机械方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 73,
+    "title": "DK机械运转的秘密",
+    "author": "[美]大卫·麦考利 文/图",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "机械类主题。约 1 册（套）。",
+    "whyRead": "机械方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 74,
+    "title": "戈德堡的机械发明",
+    "author": "[美]珍妮弗·乔治 文 / [美]埃德·斯特克利 图（鲁布·戈德堡机械主题）",
+    "country": "海外",
+    "emoji": "🎒",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "机械类主题。约 1 册（套）。",
+    "whyRead": "机械方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 75,
+    "title": "汽车嘟嘟嘟系列",
+    "author": "[日]竹下文子 文 / [日]铃木守 图",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "社会认知",
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "交通工具类主题。约 10 册（套）。",
+    "whyRead": "交通工具方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 10
+  },
+  {
+    "id": 76,
+    "title": "车车认知大画书",
+    "author": "乐乐趣童书 编（认知类车主题合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "社会认知",
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "交通工具类主题。",
+    "whyRead": "交通工具方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 77,
+    "title": "推土机元泰",
+    "author": "[韩]崔德奎 文/图",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "社会认知",
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "交通工具类主题。约 1 册（套）。",
+    "whyRead": "交通工具方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 78,
+    "title": "救护车，小滴嘟",
+    "author": "[日]竹下文子 文 / [日]铃木守 图（《汽车嘟嘟嘟》系列）",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "社会认知",
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "交通工具类主题。约 1 册（套）。",
+    "whyRead": "交通工具方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 79,
+    "title": "你好，起重机",
+    "author": "[日]竹下文子 文 / [日]铃木守 图",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "社会认知",
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "交通工具类主题。约 1 册（套）。",
+    "whyRead": "交通工具方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 80,
+    "title": "推土机和翻斗车",
+    "author": "[日]竹下文子 文 / [日]铃木守 图",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "社会认知",
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "交通工具类主题。约 1 册（套）。",
+    "whyRead": "交通工具方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 81,
+    "title": "坐电车去旅行系列",
+    "author": "[日]间濑直方 文/图",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "社会认知",
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "交通工具类主题。",
+    "whyRead": "交通工具方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 82,
+    "title": "谷雨",
+    "author": "保冬妮 文 / 王俊卿 图（《二十四节气旅行绘本》系列之一）",
+    "country": "中国",
+    "emoji": "🦖",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "传统文化"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "节气类主题。约 1 册（套）。",
+    "whyRead": "节气方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "中国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 83,
+    "title": "从前有个月饼村",
+    "author": "卷儿 文/图",
+    "country": "中国",
+    "emoji": "⭐",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "传统文化"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "节日类主题。约 1 册（套）。",
+    "whyRead": "节日方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "中国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 84,
+    "title": "DK身边的科学",
+    "author": "英国DK公司 编著",
+    "country": "海外",
+    "emoji": "🚌",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "科普类主题。海豚出版社出版。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 85,
+    "title": "天空中的高压线",
+    "author": "日本儿童科学绘本工作室 编绘（科普类单册；以版权页为准）",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "科普类主题。约 1 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 86,
+    "title": "雨水去哪了",
+    "author": "日本儿童科学绘本工作室 编绘（科普类单册；以版权页为准）",
+    "country": "海外",
+    "emoji": "🐰",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "科普类主题。约 1 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 87,
+    "title": "中国孩子爱问的为什么",
+    "author": "吴光辉 主编（大百科式问答丛书；多作者）",
+    "country": "中国",
+    "emoji": "🌸",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "科普类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "中国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 88,
+    "title": "斯凯瑞金色童书系列（忙忙碌碌镇/轱辘轱辘转/忙啊忙啊忙什么/呼啦呼啦飞起来）",
+    "author": "[美]理查德·斯凯瑞 文/图",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "科普类主题。约 4 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 4
+  },
+  {
+    "id": 89,
+    "title": "灾难求生系列",
+    "author": "[美]劳伦·塔奇斯 著（灾难求生小说系列）",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#E0F7FA",
+    "age": "5-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "科普类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 90,
+    "title": "写给孩子的自然灾害科普绘本",
+    "author": "日本红会等 策划组 编（科普合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "科普类主题。约 4 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 4
+  },
+  {
+    "id": 91,
+    "title": "电灯亮起来了",
+    "author": "日本儿童科学绘本工作室 编绘",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "科普类主题。约 1 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 92,
+    "title": "水管的秘密",
+    "author": "日本儿童科学绘本工作室 编绘",
+    "country": "海外",
+    "emoji": "📖",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "科普类主题。约 1 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 93,
+    "title": "豆腐店",
+    "author": "日本儿童科学绘本工作室 编绘",
+    "country": "海外",
+    "emoji": "🚌",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "科普类主题。约 1 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 94,
+    "title": "小小科学家",
+    "author": "多作者 编著（科普套书；各分册见版权页）",
+    "country": "海外",
+    "emoji": "🎒",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "科普类主题。约 30 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 30
+  },
+  {
+    "id": 95,
+    "title": "神奇校车",
+    "author": "[美]乔安娜·柯尔 文 / [美]布鲁斯·迪根 图",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "科普类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 96,
+    "title": "科学之友",
+    "author": "松居直（丛书主编）",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [
+      "口碑必读"
+    ],
+    "readStatus": "unread",
+    "summary": "科普类主题。约 12 册（套）。常被推荐的口碑书目。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 12
+  },
+  {
+    "id": 97,
+    "title": "科学小火车",
+    "author": "韩国科学启蒙出版会 编著（引进科普套书；各册见版权页）",
+    "country": "海外",
+    "emoji": "🎒",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "科普类主题。约 40 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 40
+  },
+  {
+    "id": 98,
+    "title": "水先生的奇妙之旅",
+    "author": "[意]奥古斯汀·特拉尼 文/图（STEAM 科普系列常见引进）",
+    "country": "海外",
+    "emoji": "🎒",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "科普类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 99,
+    "title": "好好科学",
+    "author": "接力出版社 引进组 编著（科普合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "科普类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 100,
+    "title": "好喜欢科学",
+    "author": "多作者 编著（科学启蒙合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "📖",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [
+      "口碑必读"
+    ],
+    "readStatus": "unread",
+    "summary": "科普类主题。约 10 册（套）。常被推荐的口碑书目。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 10
+  },
+  {
+    "id": 101,
+    "title": "德国幼儿园科学课",
+    "author": "[德]多作者 编著（引进合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [
+      "口碑必读"
+    ],
+    "readStatus": "unread",
+    "summary": "科普类主题。约 22 册（套）。常被推荐的口碑书目。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 22
+  },
+  {
+    "id": 102,
+    "title": "蒲公英科学绘本系列",
+    "author": "韩国大麦出版社 策划（引进科普绘本系列；各册见版权页）",
+    "country": "海外",
+    "emoji": "⭐",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "科普类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 103,
+    "title": "精灵鼠科学童话故事（下水道历险记/每个人都\"噗\"/哎呀我好热/在月亮上/不可思议的妈妈/谁被吃了）",
+    "author": "多作者 编著（精灵鼠科学童话系列；各分册见版权页）",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "科普类主题。约 6 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 6
+  },
+  {
+    "id": 104,
+    "title": "乌鸦造车记",
+    "author": "[美]莫·威利斯 文 / [美]埃里克·罗曼 图",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "科普类主题。约 1 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 105,
+    "title": "摩天大楼起起起",
+    "author": "[美]阿纳斯塔西娅·休恩 文 / [美]赖恩·奥罗克 图",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "科普类主题。约 1 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 106,
+    "title": "STEM思维训练手册",
+    "author": "日本儿童思维训练研究会 编著（引进版思维游戏书；封面见编者）",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "科普类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 107,
+    "title": "看得见的数理化",
+    "author": "日本儿童科学绘本工作室 编著（数理科普合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "🐰",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "科普类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 108,
+    "title": "如何系列三件套（一个宇宙/一个帝国/一个人）",
+    "author": "[美]大卫·麦考利 文/图（《万物运转的秘密》作者相关科普）",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "科普类主题。约 3 册（套）。",
+    "whyRead": "科普方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 3
+  },
+  {
+    "id": 109,
+    "title": "屁屁侦探",
+    "author": "[日]Troll 文/图",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "逻辑思维类主题。",
+    "whyRead": "逻辑思维方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 110,
+    "title": "用逻辑力撬动地球",
+    "author": "[日]大野博子 等 编著（逻辑游戏类合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "逻辑思维类主题。约 4 册（套）。",
+    "whyRead": "逻辑思维方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 4
+  },
+  {
+    "id": 111,
+    "title": "不可限制的思维（）",
+    "author": "多作者 编著（思维训练合辑；以版权页为准）",
+    "country": "海外",
+    "emoji": "⭐",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "逻辑思维类主题。",
+    "whyRead": "逻辑思维方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 112,
+    "title": "神奇的逻辑思维游戏书",
+    "author": "日本索尼国际教育公司 编著",
+    "country": "海外",
+    "emoji": "🚌",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "逻辑思维类主题。",
+    "whyRead": "逻辑思维方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 113,
+    "title": "DK了不起的思维（数学+科学+艺术+思维）",
+    "author": "英国DK公司 编著",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "逻辑思维类主题。",
+    "whyRead": "逻辑思维方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 114,
+    "title": "别说你快点快点",
+    "author": "[日]益田米莉 文 / [日]平泽一平 图",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "亲子沟通类主题。约 1 册（套）。",
+    "whyRead": "亲子沟通方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 115,
+    "title": "我爱你系列（）",
+    "author": "多作者 编著（「我爱你」情感类套书；各册见版权页）",
+    "country": "海外",
+    "emoji": "🐰",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "亲子情感类主题。约 3 册（套）。",
+    "whyRead": "亲子情感方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 3
+  },
+  {
+    "id": 116,
+    "title": "猜猜我有多爱你",
+    "author": "[英]山姆·麦克布雷尼 文 / [英]安妮塔·婕朗 图",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "亲子情感类主题。约 1 册（套）。",
+    "whyRead": "亲子情感方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 117,
+    "title": "被存起来的吻",
+    "author": "[法]米歇尔·盖伊 文/图",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "亲子情感类主题。约 1 册（套）。",
+    "whyRead": "亲子情感方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 118,
+    "title": "我的情绪小怪兽",
+    "author": "[西]安娜·耶纳斯 文/图",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "情绪管理"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "情绪管理类主题。约 1 册（套）。",
+    "whyRead": "情绪管理方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 119,
+    "title": "菲菲生气了",
+    "author": "[美]莫莉·卞 文/图",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "情绪管理"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "情绪管理类主题。约 1 册（套）。",
+    "whyRead": "情绪管理方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 120,
+    "title": "赶走发脾气牛",
+    "author": "[美]黛比·威尔特曼 文 / [美]妮娜·兰登 图",
+    "country": "海外",
+    "emoji": "🚌",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "情绪管理"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "情绪管理类主题。约 1 册（套）。",
+    "whyRead": "情绪管理方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 121,
+    "title": "假如我是汽车设计师/假如我是建筑设计师/假如我是学校设计师",
+    "author": "[英]克里斯·范杜森 文/图",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "设计类主题。约 3 册（套）。",
+    "whyRead": "设计方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 3
+  },
+  {
+    "id": 122,
+    "title": "小发明家伊伊",
+    "author": "多作者 编著（发明主题合辑；以版权页为准）",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "设计类主题。约 1 册（套）。",
+    "whyRead": "设计方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 123,
+    "title": "飞行员紫罗兰",
+    "author": "[美]史蒂夫·梅茨格 文 / [美]汉斯·威廉 图",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "设计类主题。约 1 册（套）。",
+    "whyRead": "设计方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 124,
+    "title": "建造我们的家",
+    "author": "[美]强纳森·本恩 文/图",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "设计类主题。约 1 册（套）。",
+    "whyRead": "设计方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 125,
+    "title": "猪猪镇的奇妙运转（自动搬运线球装置/一站式洗澡装置/不怕黑自动装置/步步惊心装置）",
+    "author": "[美]亚瑟·盖瑟特 文/图（《猪猪镇》系列）",
+    "country": "海外",
+    "emoji": "🚌",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "设计类主题。约 4 册（套）。",
+    "whyRead": "设计方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 4
+  },
+  {
+    "id": 126,
+    "title": "这不简单呀，原来飞机/眼睛/马桶这样运转",
+    "author": "日本儿童科学绘本工作室 编著（身体与机械科普合辑）",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "设计类主题。约 3 册（套）。",
+    "whyRead": "设计方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 3
+  },
+  {
+    "id": 127,
+    "title": "塔图和巴图（怪异机器/超级好玩的一天/）",
+    "author": "[芬兰]萍基·阿伊宁 文 / [芬兰]萨米·托伊沃宁 图",
+    "country": "海外",
+    "emoji": "⭐",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "设计类主题。约 4 册（套）。",
+    "whyRead": "设计方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 4
+  },
+  {
+    "id": 128,
+    "title": "小发明家手册",
+    "author": "[英]莉萨·里根 编著（活动手册类）",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "设计类主题。约 1 册（套）。",
+    "whyRead": "设计方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 129,
+    "title": "我的疯狂发明",
+    "author": "[英]安德鲁·詹姆斯·安克托斯 文 / [英]丽莎·柯里 图",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "设计类主题。约 1 册（套）。",
+    "whyRead": "设计方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 130,
+    "title": "幼儿园绘本",
+    "author": "多作者 编著（园本/主题绘本包；各册见版权页）",
+    "country": "海外",
+    "emoji": "🚌",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "友谊合作"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "社交类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "社交方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 131,
+    "title": "鲁拉鲁先生系列",
+    "author": "伊东宽",
+    "country": "海外",
+    "emoji": "🌸",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "友谊合作"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "社交类主题。约 8 册（套）。",
+    "whyRead": "社交方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 8
+  },
+  {
+    "id": 132,
+    "title": "朋友",
+    "author": "[日]谷川俊太郎 文 / [日]和田诚 图",
+    "country": "海外",
+    "emoji": "🌸",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "友谊合作"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "社交类主题。约 1 册（套）。",
+    "whyRead": "社交方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 133,
+    "title": "我的身体很重要",
+    "author": "[日]北泽杏子 文 / [日]今井弓子 图（身体安全启蒙常见版本）",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "安全教育"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "身体类主题。约 1 册（套）。",
+    "whyRead": "身体方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 134,
+    "title": "身体大发现系列",
+    "author": "[日]学习研究社 编 / [日]菅原启子 等 绘",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "安全教育"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "身体类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "身体方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 135,
+    "title": "活了100万次的猫",
+    "author": "[日]佐野洋子 文/图",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "生命教育"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "生命类主题。约 1 册（套）。",
+    "whyRead": "生命方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 136,
+    "title": "小步日诵",
+    "author": "小步亲子 选编（诵读类合辑）",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#E0F7FA",
+    "age": "3-6",
+    "themes": [
+      "传统文化"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "诗歌类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "诗歌方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 137,
+    "title": "鼠小弟爱数学",
+    "author": "[美]埃莉诺·梅 等 文 / [美]德博拉·梅尔蒙 图",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "数学启蒙类主题。",
+    "whyRead": "数学启蒙方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 138,
+    "title": "一脚踏进物理世界",
+    "author": "英国尤斯伯恩出版公司 编著（Usborne 物理启蒙）",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "物理类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "物理方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 139,
+    "title": "可爱的物理",
+    "author": "多作者 编著（物理启蒙合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "📚",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "科普",
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "物理类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "物理方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 140,
+    "title": "我的神奇马桶",
+    "author": "[日]铃木典丈 文/图",
+    "country": "海外",
+    "emoji": "📖",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "想象类主题。约 1 册（套）。",
+    "whyRead": "想象方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 141,
+    "title": "深见春夫",
+    "author": "深见春夫",
+    "country": "海外",
+    "emoji": "🎒",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "想象类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "想象方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 142,
+    "title": "这是苹果吗也许是吧/做个机器人假装是我/后来呢后来怎么了/好无聊啊好无聊",
+    "author": "吉竹伸介",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "想象类主题。约 4 册（套）。",
+    "whyRead": "想象方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 4
+  },
+  {
+    "id": 143,
+    "title": "阳光少年报",
+    "author": "《阳光少年报》编辑部（少儿新闻周刊）",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "社会认知"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "新闻类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "新闻方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 144,
+    "title": "乔茜掉了第一颗牙",
+    "author": "[美]詹妮弗·琼斯 文 / [美]玛丽·韦尔斯 图",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "习惯养成"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "行为习惯类主题。约 1 册（套）。",
+    "whyRead": "行为习惯方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 145,
+    "title": "肚子里有个火车站",
+    "author": "[德]安娜·鲁斯曼 文/图",
+    "country": "海外",
+    "emoji": "🦖",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "习惯养成"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "行为习惯类主题。约 1 册（套）。",
+    "whyRead": "行为习惯方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 146,
+    "title": "牙齿大街的新鲜事",
+    "author": "[德]安娜·鲁斯曼 文/图",
+    "country": "海外",
+    "emoji": "🚌",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "习惯养成"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "行为习惯类主题。约 1 册（套）。",
+    "whyRead": "行为习惯方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 147,
+    "title": "成长第一次",
+    "author": "多作者 编著（成长主题桥梁书合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "🐰",
+    "coverBg": "#F3E5F5",
+    "age": "5-6",
+    "themes": [
+      "习惯养成"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "行为习惯类主题。约 3 册（套）。大班/一年级。",
+    "whyRead": "行为习惯方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 3
+  },
+  {
+    "id": 148,
+    "title": "我会擦屁股",
+    "author": "[日]中屋美和 文/图（如厕习惯类常见版本）",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "习惯养成"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "行为习惯类主题。",
+    "whyRead": "行为习惯方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 149,
+    "title": "杜莱涂鸦书",
+    "author": "[法]埃尔维·杜莱 文/图",
+    "country": "海外",
+    "emoji": "📖",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "艺术启蒙"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "艺术类主题。约 1 册（套）。",
+    "whyRead": "艺术方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 150,
+    "title": "杜莱艺术启蒙小宝盒",
+    "author": "[法]埃尔维·杜莱 策划",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#E3F2FD",
+    "age": "3-6",
+    "themes": [
+      "艺术启蒙"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "艺术类主题。约 1 册（套）。",
+    "whyRead": "艺术方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 151,
+    "title": "儿童游戏图鉴",
+    "author": "日本儿童游戏图鉴编委会 编著",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "想象力"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "游戏类主题。约 1 册（套）。",
+    "whyRead": "游戏方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 152,
+    "title": "儿童哲学",
+    "author": "多作者 编著（儿童哲学启蒙合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "生命教育"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "哲学类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "哲学方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 153,
+    "title": "消防队出动",
+    "author": "[日]竹下文子 文 / [日]铃木守 图",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "社会认知"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "职业类主题。约 1 册（套）。",
+    "whyRead": "职业方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 154,
+    "title": "消防站的一天/警察局的一天/飞机场的一天",
+    "author": "[美]理查德·斯凯瑞 文/图",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "社会认知"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "职业类主题。约 3 册（套）。",
+    "whyRead": "职业方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 3
+  },
+  {
+    "id": 155,
+    "title": "我想要一辆消防车",
+    "author": "[日]竹下文子 文 / [日]铃木守 图",
+    "country": "海外",
+    "emoji": "🐟",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "社会认知"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "职业类主题。约 1 册（套）。",
+    "whyRead": "职业方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 156,
+    "title": "谁藏起来了",
+    "author": "[日]大西悟 文/图",
+    "country": "海外",
+    "emoji": "🎒",
+    "coverBg": "#FFF8E1",
+    "age": "3-4",
+    "themes": [
+      "习惯养成"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "专注力类主题。蒲蒲兰出版。约 1 册（套）。0-4岁。",
+    "whyRead": "专注力方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 157,
+    "title": "好忙好忙的小岛",
+    "author": "[日]刀根里衣 文/图",
+    "country": "海外",
+    "emoji": "🚌",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "习惯养成"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "专注力类主题。4-。",
+    "whyRead": "专注力方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 158,
+    "title": "小聪仔",
+    "author": "《小聪仔》编辑部（接力出版社科普期刊/丛书）",
+    "country": "海外",
+    "emoji": "📖",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "自然类主题。约 12 册（套）。",
+    "whyRead": "自然方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 12
+  },
+  {
+    "id": 159,
+    "title": "原来虫虫这样长大",
+    "author": "多作者 编著（昆虫成长科普合辑；各册见版权页）",
+    "country": "海外",
+    "emoji": "🌸",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "自然类主题。约 10 册（套）。",
+    "whyRead": "自然方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 10
+  },
+  {
+    "id": 160,
+    "title": "好奇心科学馆・好味道王国",
+    "author": "韩国科学启蒙出版会 编著",
+    "country": "海外",
+    "emoji": "🐰",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "自然探索"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "自然类绘本，适合幼儿园阶段拓展阅读。",
+    "whyRead": "自然方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 162,
+    "title": "别想欺负我",
+    "author": "[德]赫姆·海恩 文/图",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "安全教育"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "自我保护类主题。约 1 册（套）。",
+    "whyRead": "自我保护方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 163,
+    "title": "被欺负了，可以打回去吗？",
+    "author": "小杨叔叔 文 / 一尘童书 图",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "安全教育"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "自我保护类主题。约 1 册（套）。",
+    "whyRead": "自我保护方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 164,
+    "title": "了不起的我自己",
+    "author": "多作者 编著（自我保护主题套书；各册见版权页）",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#FFF0F0",
+    "age": "5-6",
+    "themes": [
+      "安全教育"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "自我保护类主题。约 6 册（套）。大班-小学。",
+    "whyRead": "自我保护方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 6
+  },
+  {
+    "id": 165,
+    "title": "当夏洛特被欺负的时候",
+    "author": "[法]阿梅丽·雅沃 文 / [比]安妮克·马松 图",
+    "country": "海外",
+    "emoji": "⭐",
+    "coverBg": "#E8F5E9",
+    "age": "3-6",
+    "themes": [
+      "安全教育"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "自我保护类主题。约 1 册（套）。",
+    "whyRead": "自我保护方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 166,
+    "title": "我是我",
+    "author": "多作者 编著（自我认知主题单册/套书；以版权页为准）",
+    "country": "海外",
+    "emoji": "🚌",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "情绪管理"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "自我认知类主题。约 1 册（套）。",
+    "whyRead": "自我认知方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 167,
+    "title": "我就是勇气",
+    "author": "多作者 编著（勇气主题合辑；以版权页为准）",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#F3E5F5",
+    "age": "3-6",
+    "themes": [
+      "情绪管理"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "自我认知类主题。约 1 册（套）。",
+    "whyRead": "自我认知方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 168,
+    "title": "儿童之友",
+    "author": "松居直（丛书主编）",
+    "country": "海外",
+    "emoji": "🌸",
+    "coverBg": "#FFEBEE",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "综合性儿童文学类主题。",
+    "whyRead": "综合性儿童文学方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 169,
+    "title": "儿童时代",
+    "author": "中国福利会《儿童时代》杂志社",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "partial",
+    "summary": "综合性儿童文学类主题。约 36 册（套）。",
+    "whyRead": "综合性儿童文学方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 36
+  },
+  {
+    "id": 170,
+    "title": "幼儿画报",
+    "author": "《幼儿画报》编辑部（中国少年儿童新闻出版总社）",
+    "country": "海外",
+    "emoji": "🎒",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "亲情与爱"
+    ],
+    "awards": [],
+    "readStatus": "unread",
+    "summary": "综合性儿童文学类主题。约 36 册（套）。",
+    "whyRead": "综合性儿童文学方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list",
+    "volumeCount": 36
+  },
+  {
+    "id": 171,
+    "title": "说干就干的老奶奶",
+    "author": "[日]西卷矛子 文/图",
+    "country": "海外",
+    "emoji": "⭐",
+    "coverBg": "#EDE9FE",
+    "age": "3-6",
+    "themes": [
+      "习惯养成"
+    ],
+    "awards": [],
+    "readStatus": "read",
+    "summary": "行为习惯类主题。约 1 册（套）。",
+    "whyRead": "行为习惯方向有助于丰富共读话题，可按孩子兴趣穿插选读。",
+    "readingTips": "先聊封面再读内页；喜欢的书值得反复读。",
+    "origin": "外国",
+    "dataSource": "family_list"
+  },
+  {
+    "id": 172,
+    "title": "逛街",
+    "author": "陈志贤 文/图",
+    "country": "中国",
+    "emoji": "🚌",
+    "coverBg": "#FFF0F0",
+    "age": "3-6",
+    "themes": [
+      "社会认知",
+      "亲情与爱"
+    ],
+    "awards": [
+      "国图少儿馆「四季童读」2026春季卷推荐"
+    ],
+    "readStatus": "unread",
+    "summary": "以逛街为线索的生活观察绘本，适合讨论社区、买卖与日常安全。",
+    "whyRead": "信谊出品路线，图文节奏贴近华语孩子的生活场景。",
+    "readingTips": "出门前可先聊「今天要经过哪些地方」，读后再对照真实街道。",
+    "origin": "中国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 173,
+    "title": "喂喂喂，足球队",
+    "author": "李志伟 文 / Stano 图",
+    "country": "中国",
+    "emoji": "🦖",
+    "coverBg": "#F3E5F5",
+    "age": "4-6",
+    "themes": [
+      "友谊合作",
+      "习惯养成"
+    ],
+    "awards": [
+      "国图少儿馆「四季童读」2026春季卷推荐"
+    ],
+    "readStatus": "unread",
+    "summary": "围绕足球队与集体练习的趣味故事，适合大班社交与规则讨论。",
+    "whyRead": "运动题材易引发男孩女孩共同参与，便于延伸到户外活动。",
+    "readingTips": "问问孩子「如果你是队长会怎么分工」。",
+    "origin": "中国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 174,
+    "title": "这是什么呀？",
+    "author": "朱离 文/图",
+    "country": "海外",
+    "emoji": "📚",
+    "coverBg": "#F3E5F5",
+    "age": "3-5",
+    "themes": [
+      "自然探索",
+      "想象力"
+    ],
+    "awards": [
+      "国图少儿馆「四季童读」2026春季卷推荐"
+    ],
+    "readStatus": "unread",
+    "summary": "用提问与翻页悬念带孩子认识身边事物，语言简短、节奏明快。",
+    "whyRead": "适合作为「观察—猜测—验证」的阅读策略练习。",
+    "readingTips": "每翻一页先让孩子猜，再揭晓。",
+    "origin": "外国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 175,
+    "title": "麋鹿大王",
+    "author": "王祖民 文/图",
+    "country": "中国",
+    "emoji": "🐰",
+    "coverBg": "#EDE9FE",
+    "age": "4-6",
+    "themes": [
+      "自然探索",
+      "生命教育"
+    ],
+    "awards": [
+      "国图少儿馆「四季童读」2026春季卷推荐"
+    ],
+    "readStatus": "unread",
+    "summary": "以麋鹿为主角的生态故事线索，可衔接保护动物与湿地话题。",
+    "whyRead": "本土自然题材在馆配与主题活动中很受欢迎。",
+    "readingTips": "结合纪录片短片讨论「濒危与保护」。",
+    "origin": "中国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 176,
+    "title": "庭院里的小客人",
+    "author": "黄小衡 文 / 刘佩佩 图",
+    "country": "中国",
+    "emoji": "⭐",
+    "coverBg": "#FFF8E1",
+    "age": "3-6",
+    "themes": [
+      "自然探索",
+      "亲情与爱"
+    ],
+    "awards": [
+      "国图少儿馆「四季童读」2026春季卷推荐"
+    ],
+    "readStatus": "unread",
+    "summary": "庭院里来了小客人——昆虫或小动物，适合春夏户外共读。",
+    "whyRead": "把「自然观察」落在孩子每天能看到的院子里。",
+    "readingTips": "读完一起在阳台或小区找三种小生物。",
+    "origin": "中国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 177,
+    "title": "别让咕噜噜蛀下来",
+    "author": "周索斓 文/图",
+    "country": "中国",
+    "emoji": "🌿",
+    "coverBg": "#FFF0F0",
+    "age": "3-5",
+    "themes": [
+      "习惯养成",
+      "安全教育"
+    ],
+    "awards": [
+      "国图少儿馆「四季童读」2026春季卷·科普类推荐"
+    ],
+    "readStatus": "unread",
+    "summary": "用拟人化蛀牙精提醒刷牙与饮食，语气幽默、画面夸张好记。",
+    "whyRead": "比单纯说教更易建立刷牙动机。",
+    "readingTips": "刷牙时复诵书中「赶走咕噜噜」口号。",
+    "origin": "中国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 178,
+    "title": "跟着树木去旅行",
+    "author": "[英]罗伯·哈吉森 文/图",
+    "country": "海外",
+    "emoji": "🎨",
+    "coverBg": "#E8F5E9",
+    "age": "5-6",
+    "themes": [
+      "自然探索"
+    ],
+    "awards": [
+      "国图少儿馆「四季童读」2026春季卷·科普类推荐"
+    ],
+    "readStatus": "unread",
+    "summary": "从树木年轮、种子传播到森林生态，图文信息密度适中。",
+    "whyRead": "适合对「树、叶子、果实」已有兴趣的孩子加深一层。",
+    "readingTips": "带一片落叶回家对照书中示意图。",
+    "origin": "外国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 179,
+    "title": "大女孩（Big）",
+    "author": "[美]瓦什蒂·哈里森 文/图",
+    "country": "海外",
+    "emoji": "🐰",
+    "coverBg": "#E3F2FD",
+    "age": "4-8",
+    "themes": [
+      "情绪管理",
+      "自我认知"
+    ],
+    "awards": [
+      "2024 凯迪克金奖"
+    ],
+    "readStatus": "unread",
+    "summary": "关于身材与同伴眼光的自我接纳故事，讨论友善与反霸凌都很自然。",
+    "whyRead": "奖项与话题度兼具，适合亲子严肃但不沉重的对话。",
+    "readingTips": "问问「如果你是旁观者会怎么帮助主角」。",
+    "origin": "外国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 180,
+    "title": "热狗（Hot Dog）",
+    "author": "[美]道格·萨拉蒂 文/图",
+    "country": "海外",
+    "emoji": "🌸",
+    "coverBg": "#FFF0F0",
+    "age": "3-7",
+    "themes": [
+      "情绪管理",
+      "自然探索"
+    ],
+    "awards": [
+      "2023 凯迪克金奖"
+    ],
+    "readStatus": "unread",
+    "summary": "酷暑里一只热坏了的小狗与主人的海边散步，几乎无字却极有电影感。",
+    "whyRead": "视觉叙事强，训练孩子「用画面讲故事」。",
+    "readingTips": "只看图让孩子配旁白，再对照译本。",
+    "origin": "外国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 181,
+    "title": "路边花",
+    "author": "JonArno Lawson 文 / Sydney Smith 图",
+    "country": "海外",
+    "emoji": "🌙",
+    "coverBg": "#E8F5E9",
+    "age": "3-7",
+    "themes": [
+      "想象力",
+      "亲情与爱"
+    ],
+    "awards": [
+      "西德尼·史密斯为 2024 国际安徒生插画家奖得主代表作之一"
+    ],
+    "readStatus": "unread",
+    "summary": "女孩一路把野花送给路人，无字却充满善意与城市观察。",
+    "whyRead": "练习观察力与同理心的上选无字书。",
+    "readingTips": "散步时模仿主角「送一朵想象的花」。",
+    "origin": "外国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 182,
+    "title": "雪中的狼",
+    "author": "Matthew Cordell",
+    "country": "海外",
+    "emoji": "🍎",
+    "coverBg": "#FFF8E1",
+    "age": "3-7",
+    "themes": [
+      "亲情与爱",
+      "勇气与冒险"
+    ],
+    "awards": [
+      "2018 凯迪克金奖"
+    ],
+    "readStatus": "unread",
+    "summary": "暴风雪中女孩与狼群的相遇与互助，几乎无对白、情感张力强。",
+    "whyRead": "讨论「陌生与信任」的温和入口。",
+    "readingTips": "注意画面风向与人物表情变化。",
+    "origin": "外国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 183,
+    "title": "这不是我的帽子",
+    "author": "Jon Klassen",
+    "country": "海外",
+    "emoji": "🏠",
+    "coverBg": "#F3E5F5",
+    "age": "4-6",
+    "themes": [
+      "幽默趣味",
+      "规则意识"
+    ],
+    "awards": [
+      "凯迪克金奖",
+      "凯特·格林纳威奖"
+    ],
+    "readStatus": "unread",
+    "summary": "小鱼偷了大鱼的帽子，文字与图画讲出两个版本的故事。",
+    "whyRead": "极简对白、冷幽默，孩子反复读仍会笑。",
+    "readingTips": "让孩子只看图讲一遍，再读字。",
+    "origin": "外国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 184,
+    "title": "驯河童子",
+    "author": "廖小琴 文 / 阿涩 图",
+    "country": "中国",
+    "emoji": "🐟",
+    "coverBg": "#E0F7FA",
+    "age": "5-6",
+    "themes": [
+      "传统文化",
+      "勇气与冒险"
+    ],
+    "awards": [
+      "第九届丰子恺儿童图画书奖·佳作奖（2025）"
+    ],
+    "readStatus": "unread",
+    "summary": "以治水与成长为主题的东方奇幻气质绘本，气势足、想象空间大。",
+    "whyRead": "近年华文原创大奖中辨识度很高的历史幻想题材。",
+    "readingTips": "可与大禹治水等故事做主题对照。",
+    "origin": "中国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 185,
+    "title": "木拉提爷爷，你去哪儿？",
+    "author": "唐亚明 文 / 周翔 图",
+    "country": "中国",
+    "emoji": "📖",
+    "coverBg": "#E0F7FA",
+    "age": "4-6",
+    "themes": [
+      "传统文化",
+      "幽默趣味"
+    ],
+    "awards": [
+      "第九届丰子恺儿童图画书奖·佳作奖（2025）"
+    ],
+    "readStatus": "unread",
+    "summary": "爷爷骑马出门一路悬念，幽默与民族风情结合。",
+    "whyRead": "周翔画面叙事稳健，适合表演式朗读。",
+    "readingTips": "每翻一页让孩子猜目的地。",
+    "origin": "中国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 186,
+    "title": "独生小孩",
+    "author": "郭婧 文/图",
+    "country": "中国",
+    "emoji": "📖",
+    "coverBg": "#FFF0F0",
+    "age": "5-8",
+    "themes": [
+      "想象力",
+      "亲情与爱"
+    ],
+    "awards": [
+      "《纽约时报》年度十佳绘本等"
+    ],
+    "readStatus": "unread",
+    "summary": "铅笔素描无字长篇，女孩与麋鹿的奇幻旅程，视觉叙事极强。",
+    "whyRead": "华文无字长篇稀缺，情感细腻。",
+    "readingTips": "鼓励孩子为每一格配音。",
+    "origin": "中国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 187,
+    "title": "第一次自己睡觉",
+    "author": "[日]季巳明代 文 / [日]长谷川香子 图",
+    "country": "海外",
+    "emoji": "🎒",
+    "coverBg": "#EDE9FE",
+    "age": "3-5",
+    "themes": [
+      "习惯养成",
+      "情绪管理"
+    ],
+    "awards": [
+      "日本绘本奖读者票选等（版本众多）"
+    ],
+    "readStatus": "unread",
+    "summary": "樱子决定自己睡觉，玩偶们排队守护的可爱设定。",
+    "whyRead": "分房睡与独立入睡的经典讨论材料。",
+    "readingTips": "问问孩子「你想让哪个玩偶站第一班岗」。",
+    "origin": "外国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 188,
+    "title": "蜡笔小黑",
+    "author": "中屋美和 文/图",
+    "country": "海外",
+    "emoji": "🐰",
+    "coverBg": "#E3F2FD",
+    "age": "3-5",
+    "themes": [
+      "艺术启蒙",
+      "自我认知"
+    ],
+    "awards": [
+      "日本绘本奖入门向常选"
+    ],
+    "readStatus": "unread",
+    "summary": "不被待见的小黑蜡笔最后点亮全书的色彩，讨论差异与协作。",
+    "whyRead": "手工与美术课延展特别好做。",
+    "readingTips": "准备白纸和蜡笔，读完一起「让黑色也有用武之地」。",
+    "origin": "外国",
+    "dataSource": "web_curated"
+  },
+  {
+    "id": 189,
+    "title": "阿秋和阿狐",
+    "author": "林明子 文/图",
+    "country": "海外",
+    "emoji": "🌿",
+    "coverBg": "#FFF0F0",
+    "age": "3-5",
+    "themes": [
+      "亲情与爱",
+      "友谊合作"
+    ],
+    "awards": [
+      "日本绘本奖常选篇目"
+    ],
+    "readStatus": "unread",
+    "summary": "玩偶阿狐陪阿秋坐火车回老家，温柔又略带冒险感。",
+    "whyRead": "林明子笔下幼儿神态极准，安抚分离焦虑。",
+    "readingTips": "带上孩子自己的安抚物一起读。",
+    "origin": "外国",
+    "dataSource": "web_curated"
+  }
+]

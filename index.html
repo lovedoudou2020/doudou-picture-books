@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>豆豆绘本馆 — 幼儿园阶段精选绘本推荐</title>
+  <meta name="description" content="为3-6岁幼儿园小朋友精选绘本与套装合辑：约487册实体书（188条书目，套装按册累计），按主题、奖项等分类浏览，附亲子共读指南。持续更新中。">
+  <meta name="theme-color" content="#FF6B6B">
+  <meta property="og:title" content="豆豆绘本馆 — 幼儿园阶段精选绘本推荐">
+  <meta property="og:description" content="为3-6岁精选绘本与套装合辑，按主题、奖项、原创与阅读进度浏览，附亲子共读指南。">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a href="#app-main" class="skip-link">跳到主内容</a>
+
+  <div class="app-shell" id="app-shell">
+    <aside class="sidebar" id="sidebar" aria-label="主导航">
+      <div class="sidebar-brand logo"><span>📚</span> 豆豆绘本馆</div>
+      <nav class="sidebar-nav-wrap" aria-label="站点页面">
+        <ul class="sidebar-nav">
+          <li><a href="#" data-page="home" class="active">首页</a></li>
+          <li class="sidebar-nav-group" aria-labelledby="nav-library-heading">
+            <a href="#" id="nav-library-heading" data-page="library" data-read="all">我的书库</a>
+            <ul class="sidebar-subnav" role="group" aria-label="阅读进度">
+              <li><a href="#" data-page="library" data-read="all">全部</a></li>
+              <li><a href="#" data-page="library" data-read="read">已读</a></li>
+              <li><a href="#" data-page="library" data-read="partial">进行中</a></li>
+              <li><a href="#" data-page="library" data-read="unread">未读</a></li>
+            </ul>
+          </li>
+          <li><a href="#" data-page="theme">按主题</a></li>
+          <li><a href="#" data-page="award">获奖专区</a></li>
+          <li><a href="#" data-page="chinese">中国原创</a></li>
+          <li><a href="#" data-page="curated">网上新书</a></li>
+          <li><a href="#" data-page="guide">共读指南</a></li>
+          <li><a href="#" data-page="news">教育资讯</a></li>
+        </ul>
+      </nav>
+      <div class="sidebar-bottom">
+        <button type="button" class="sidebar-add-book nav-add-book" id="btn-open-add-book" title="手动添加绘本（仅存本机）">＋ 添加绘本</button>
+        <div class="sidebar-search nav-search">
+          <input type="text" placeholder="搜书名（含套装分册）、作者、主题…" aria-label="搜索书名与书目">
+          <button type="button" aria-label="搜索">🔍</button>
+        </div>
+        <div class="sidebar-sort">
+          <label for="nav-book-sort">书目排序</label>
+          <select id="nav-book-sort" aria-label="列表中书目的排序方式">
+            <option value="default">默认顺序</option>
+            <option value="title">按书名（拼音/笔画）</option>
+          </select>
+        </div>
+      </div>
+    </aside>
+
+    <div class="sidebar-backdrop" id="sidebar-backdrop" hidden></div>
+    <button type="button" class="mobile-menu-btn" id="sidebar-toggle" aria-label="打开导航菜单" aria-expanded="false" aria-controls="sidebar">
+      <span class="mobile-menu-btn__lines" aria-hidden="true"></span>
+    </button>
+
+    <main class="app-main" id="app-main" tabindex="-1">
+
+  <div id="app-loading" class="app-loading" role="status" aria-live="polite">正在加载书目…</div>
+
+  <!-- ==================== 首页 ==================== -->
+  <div id="home-page" class="page active">
+
+    <!-- Hero Banner -->
+    <section class="hero">
+      <div class="hero-decorations">
+        <span>📖</span><span>🌈</span><span>🐰</span><span>🦋</span><span>⭐</span><span>🎨</span>
+      </div>
+      <h1>豆豆绘本馆</h1>
+      <p>为 3-6 岁小朋友精选的绘本宝库<br>每一本都值得和孩子一起读 · 持续更新中 📅</p>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <div class="num" data-target="487" data-suffix="+">0</div>
+          <div class="label">精选册数</div>
+        </div>
+        <div class="hero-stat">
+          <div class="num" data-target="10">0</div>
+          <div class="label">主题分类</div>
+        </div>
+        <div class="hero-stat">
+          <div class="num" data-target="20" data-suffix="+">0</div>
+          <div class="label">国际大奖</div>
+        </div>
+        <div class="hero-stat">
+          <div class="num" data-target="16">0</div>
+          <div class="label">中国原创</div>
+        </div>
+      </div>
+      <div class="page-stats-bar page-stats-bar--hero" id="home-hero-stats" aria-label="书库统计"></div>
+    </section>
+
+    <!-- 🆕 最新上架 -->
+    <section class="section" style="background: linear-gradient(180deg, #EDE9FE 0%, var(--bg) 100%);">
+      <div class="container">
+        <div class="section-title">
+          <h2>🆕 最新上架</h2>
+        </div>
+        <div class="page-stats-bar" id="home-new-stats" aria-label="本区统计"></div>
+        <div class="book-grid" id="new-books"></div>
+      </div>
+    </section>
+
+    <!-- 主题入口 — 按钮选择主题后展示卡片 -->
+    <section class="section" style="background: linear-gradient(180deg, #FFF5F5 0%, var(--bg) 100%);">
+      <div class="container">
+        <div class="section-title">
+          <h2>🎯 主题分类 · 绘本一览</h2>
+        </div>
+        <div class="page-stats-bar" id="home-theme-stats" aria-label="本区统计"></div>
+        <div class="theme-tag-bar home-theme-tag-bar" id="home-theme-tag-bar" role="tablist" aria-label="首页主题筛选"></div>
+        <div class="book-grid" id="home-theme-book-grid"></div>
+      </div>
+    </section>
+
+    <!-- 精选推荐 -->
+    <section class="section">
+      <div class="container">
+        <div class="section-title">
+          <h2>🏆 获奖精选</h2>
+          <p>国际大奖认证的经典之作</p>
+        </div>
+        <div class="page-stats-bar" id="home-featured-stats" aria-label="本区统计"></div>
+        <div class="book-grid" id="featured-books"></div>
+      </div>
+    </section>
+
+    <!-- 中国原创精选 -->
+    <section class="section" style="background: linear-gradient(180deg, #FFF0E6 0%, var(--bg) 100%);">
+      <div class="container">
+        <div class="section-title">
+          <h2>🇨🇳 中国原创精选</h2>
+          <p>用中国故事滋养中国孩子</p>
+        </div>
+        <div class="page-stats-bar" id="home-chinese-stats" aria-label="本区统计"></div>
+        <div class="book-grid" id="chinese-books"></div>
+      </div>
+    </section>
+
+    <!-- 获奖专区入口 -->
+    <section class="section">
+      <div class="container">
+        <div class="section-title">
+          <h2>🎖️ 权威奖项</h2>
+          <p>绘本界的"奥斯卡"们</p>
+        </div>
+        <div class="award-grid">
+          <div class="award-card" data-award="凯迪克">
+            <div class="award-icon" style="background:#FEF3C7">🏅</div>
+            <div class="award-info">
+              <h4>凯迪克奖</h4>
+              <div class="origin">🇺🇸 美国</div>
+              <div class="award-desc">美国最权威的儿童绘本奖，被誉为绘本界的"奥斯卡"。</div>
+            </div>
+          </div>
+          <div class="award-card" data-award="格林纳威">
+            <div class="award-icon" style="background:#E0F2FE">🎖️</div>
+            <div class="award-info">
+              <h4>凯特·格林纳威奖</h4>
+              <div class="origin">🇬🇧 英国</div>
+              <div class="award-desc">英国最权威的童书插画奖，与凯迪克奖齐名。</div>
+            </div>
+          </div>
+          <div class="award-card" data-award="丰子恺">
+            <div class="award-icon" style="background:#FECACA">🏆</div>
+            <div class="award-info">
+              <h4>丰子恺儿童图画书奖</h4>
+              <div class="origin">🇨🇳 中国</div>
+              <div class="award-desc">首个国际级华文原创儿童图画书奖，以丰子恺先生命名。</div>
+            </div>
+          </div>
+          <div class="award-card" data-award="安徒生">
+            <div class="award-icon" style="background:#EDE9FE">👑</div>
+            <div class="award-info">
+              <h4>国际安徒生奖</h4>
+              <div class="origin">🌍 国际</div>
+              <div class="award-desc">国际儿童文学最高荣誉，被誉为"小诺贝尔文学奖"。</div>
+            </div>
+          </div>
+          <div class="award-card" data-award="纽伯瑞">
+            <div class="award-icon" style="background:#FFF7ED">📖</div>
+            <div class="award-info">
+              <h4>纽伯瑞奖</h4>
+              <div class="origin">🇺🇸 美国</div>
+              <div class="award-desc">美国最权威的儿童文学奖，关注作品文字质量。</div>
+            </div>
+          </div>
+          <div class="award-card" data-award="信谊">
+            <div class="award-icon" style="background:#D1FAE5">📜</div>
+            <div class="award-info">
+              <h4>信谊幼儿文学奖</h4>
+              <div class="origin">🇨🇳 中国</div>
+              <div class="award-desc">中国重要的原创图画书奖项，由信谊基金会设立。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ==================== 我的书库 ==================== -->
+  <div id="library-page" class="page">
+    <section class="section page-section">
+      <div class="container">
+        <div class="section-title">
+          <h2>📚 我的书库</h2>
+        </div>
+        <div class="page-stats-bar" id="library-stats" aria-label="书库统计"></div>
+        <div class="book-grid" id="library-book-grid"></div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ==================== 按主题浏览 ==================== -->
+  <div id="theme-page" class="page">
+    <section class="section page-section">
+      <div class="container">
+        <div class="section-title">
+          <h2>🎯 按主题选绘本</h2>
+        </div>
+        <div class="page-stats-bar" id="theme-stats" aria-label="本页统计"></div>
+        <div class="theme-tag-bar" id="theme-tag-bar" role="tablist" aria-label="主题分类"></div>
+        <div class="book-grid" id="theme-book-grid"></div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ==================== 获奖专区 ==================== -->
+  <div id="award-page" class="page">
+    <section class="section page-section">
+      <div class="container">
+        <div class="section-title">
+          <h2>🏆 获奖绘本专区</h2>
+          <p>经过权威奖项认证的高品质绘本</p>
+        </div>
+        <div class="page-stats-bar" id="award-stats" aria-label="本页统计"></div>
+        <div class="tabs">
+          <button class="tab-btn active" data-award="all">全部获奖</button>
+          <button class="tab-btn" data-award="凯迪克">🏅 凯迪克奖</button>
+          <button class="tab-btn" data-award="格林纳威">🎖️ 格林纳威奖</button>
+          <button class="tab-btn" data-award="丰子恺">🏆 丰子恺奖</button>
+          <button class="tab-btn" data-award="安徒生">👑 安徒生奖</button>
+          <button class="tab-btn" data-award="纽伯瑞">📖 纽伯瑞奖</button>
+          <button class="tab-btn" data-award="信谊">📜 信谊幼儿文学奖</button>
+        </div>
+        <div class="book-grid" id="award-book-grid"></div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ==================== 中国原创 ==================== -->
+  <div id="chinese-page" class="page">
+    <section class="section page-section">
+      <div class="container">
+        <div class="section-title">
+          <h2>🇨🇳 中国原创绘本</h2>
+          <p>用中国故事、中国画风，滋养中国孩子</p>
+        </div>
+        <div class="page-stats-bar" id="chinese-page-stats" aria-label="本页统计"></div>
+        <div class="book-grid" id="chinese-book-grid"></div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ==================== 网上精选新书（脚本网搜书单） ==================== -->
+  <div id="curated-page" class="page">
+    <section class="section page-section">
+      <div class="container">
+        <div class="section-title">
+          <h2>🌐 网上精选新书</h2>
+        </div>
+        <div class="page-stats-bar" id="curated-stats" aria-label="本页统计"></div>
+        <div class="book-grid" id="curated-book-grid"></div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ==================== 教育资讯（列表 + 站内详情）==================== -->
+  <div id="news-page" class="page">
+    <section class="section page-section">
+      <div class="container">
+        <div id="edu-news-list-view">
+          <div class="section-title">
+            <h2>📰 教育资讯</h2>
+          </div>
+          <div id="edu-news-list" class="edu-news-list" aria-live="polite"></div>
+        </div>
+        <div id="edu-news-article-view" class="edu-news-article-view" hidden></div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ==================== 共读指南 ==================== -->
+  <div id="guide-page" class="page">
+    <section class="section page-section">
+      <div class="container">
+        <div class="section-title">
+          <h2>📖 亲子共读指南</h2>
+          <p>让绘本时光成为最温暖的亲子记忆</p>
+        </div>
+        <div class="guide-grid">
+          <div class="guide-card">
+            <div class="step-num" style="background: var(--primary)">1</div>
+            <h4>选择合适的时间</h4>
+            <p>睡前 15-20 分钟是黄金共读时间。环境安静、光线柔和，孩子最容易进入故事世界。保持每天固定时间，形成阅读习惯。</p>
+          </div>
+          <div class="guide-card">
+            <div class="step-num" style="background: var(--secondary)">2</div>
+            <h4>先看封面聊起来</h4>
+            <p>别急着翻页。看看封面问孩子"你觉得这是一个关于什么的故事？"激发好奇心和预测能力，让阅读从第一秒就互动起来。</p>
+          </div>
+          <div class="guide-card">
+            <div class="step-num" style="background: var(--purple)">3</div>
+            <h4>用声音演故事</h4>
+            <p>不同角色用不同声调，紧张时放慢速度，开心时提高声音。你的演绎比任何有声书都更有感染力——因为你是孩子最爱的人。</p>
+          </div>
+          <div class="guide-card">
+            <div class="step-num" style="background: var(--orange)">4</div>
+            <h4>鼓励"插嘴"</h4>
+            <p>孩子打断你问问题？太好了！这说明他在思考。跟着他的问题走，比按顺序读完更重要。好的共读是"对话"不是"朗读"。</p>
+          </div>
+          <div class="guide-card">
+            <div class="step-num" style="background: var(--green)">5</div>
+            <h4>重复读不丢脸</h4>
+            <p>孩子第50次要求读同一本书？恭喜你，这说明这本书对他意义重大。重复阅读帮助深度理解、积累语言、建立安全感。</p>
+          </div>
+          <div class="guide-card">
+            <div class="step-num" style="background: var(--pink)">6</div>
+            <h4>延伸到生活中</h4>
+            <p>读完《小种子》就种颗豆子，读完《蚯蚓的日记》就去找蚯蚓。绘本不是孤立的，它是打开真实世界的一把钥匙。</p>
+          </div>
+        </div>
+
+        <!-- 教育部《3-6岁儿童学习与发展指南》家长导读 -->
+        <div id="guide-moe-development" class="guide-moe-block">
+          <div class="section-title">
+            <h2>📘 教育部《3-6岁儿童学习与发展指南》</h2>
+            <p>2012 年由教育部印发（教基二〔2012〕4号），帮助幼儿园教师和家长了解 3～6 岁幼儿学习与发展的基本规律与特点。以下为五大领域与家长共读的对照要点，详细目标与年龄段描述请以教育部发布的全文为准。</p>
+          </div>
+          <div class="guide-moe-intro guide-card">
+            <p><strong>核心理念（家长可记住）</strong>：关注幼儿学习与发展的整体性；尊重个体差异；理解幼儿的学习方式和特点（以直接经验为基础，在游戏和日常生活中学习）；重视学习品质（好奇心、坚持性等）。避免脱离生活、脱离游戏的「小学化」训练。</p>
+          </div>
+          <div class="guide-moe-domains">
+            <div class="guide-moe-domain">
+              <h4>🏃 健康</h4>
+              <p>身心状况、动作发展、生活习惯与生活能力。可与运动、情绪、卫生、安全类绘本结合，讨论作息、饮食、用眼与户外活动。</p>
+            </div>
+            <div class="guide-moe-domain">
+              <h4>💬 语言</h4>
+              <p>倾听与表达、阅读与书写准备。亲子共读直接支撑「喜欢听故事、看图书」与口头表达；鼓励复述、预测情节，不强迫识字量攀比。</p>
+            </div>
+            <div class="guide-moe-domain">
+              <h4>🤝 社会</h4>
+              <p>人际交往、社会适应。友谊、分享、规则、情绪类绘本可用来演练换位思考与解决冲突的语言，联系幼儿园与家庭规则。</p>
+            </div>
+            <div class="guide-moe-domain">
+              <h4>🔭 科学</h4>
+              <p>科学探究、数学认知。科普、自然观察、数感类绘本宜以提问与动手小实验延伸，重在兴趣与过程，而非死记结论。</p>
+            </div>
+            <div class="guide-moe-domain">
+              <h4>🎨 艺术</h4>
+              <p>感受与欣赏、表现与创造。图画书本身就是审美对象；可鼓励孩子模仿角色涂画、配乐讲故事，保护「敢表达」的勇气。</p>
+            </div>
+          </div>
+          <div id="guide-moe-appendix" class="guide-moe-appendix-wrap" aria-label="指南附件正文纲要"></div>
+          <p class="guide-moe-local-doc">
+            <a href="#" class="js-moe-doc-preview" data-doc="3-6发展指南.doc" role="button">点开查看《3-6发展指南》.doc</a>
+            <span class="guide-moe-local-doc-note"> · </span>
+            <a href="3-6发展指南.doc" download>下载到本机</a>
+          </p>
+          <p class="guide-moe-source">
+            官方通知与指南全文（含附件）见：
+            <a href="https://www.moe.gov.cn/srcsite/A06/s3327/201210/t20121009_143254.html" target="_blank" rel="noopener noreferrer">教育部 · 关于印发《3-6岁儿童学习与发展指南》的通知</a>
+          </p>
+        </div>
+
+        <!-- 按年龄的阅读建议 -->
+        <div style="margin-top:3rem">
+          <div class="section-title">
+            <h2>🎯 各年龄段阅读建议</h2>
+          </div>
+          <div class="age-grid">
+            <div class="age-card" style="cursor:default;border-color:var(--green)">
+              <div class="emoji">🧒</div>
+              <h3>小班 (3-4岁)</h3>
+              <div style="text-align:left;font-size:0.88rem;color:var(--text-light);line-height:1.8;margin-top:1rem">
+                <p>📌 <strong>阅读时长</strong>：5-10分钟/次</p>
+                <p>📌 <strong>选书要点</strong>：画面大、文字少、有重复节奏</p>
+                <p>📌 <strong>互动方式</strong>：指认画面、模仿动物叫声、做动作</p>
+                <p>📌 <strong>推荐类型</strong>：认知类、习惯养成类、翻翻书</p>
+              </div>
+            </div>
+            <div class="age-card" style="cursor:default;border-color:var(--blue)">
+              <div class="emoji">👧</div>
+              <h3>中班 (4-5岁)</h3>
+              <div style="text-align:left;font-size:0.88rem;color:var(--text-light);line-height:1.8;margin-top:1rem">
+                <p>📌 <strong>阅读时长</strong>：10-15分钟/次</p>
+                <p>📌 <strong>选书要点</strong>：有完整故事线、情感元素丰富</p>
+                <p>📌 <strong>互动方式</strong>：预测情节、讨论人物感受、角色扮演</p>
+                <p>📌 <strong>推荐类型</strong>：情绪管理类、友谊类、想象力类</p>
+              </div>
+            </div>
+            <div class="age-card" style="cursor:default;border-color:var(--purple)">
+              <div class="emoji">🧒</div>
+              <h3>大班 (5-6岁)</h3>
+              <div style="text-align:left;font-size:0.88rem;color:var(--text-light);line-height:1.8;margin-top:1rem">
+                <p>📌 <strong>阅读时长</strong>：15-20分钟/次</p>
+                <p>📌 <strong>选书要点</strong>：主题深入、可引发思考和讨论</p>
+                <p>📌 <strong>互动方式</strong>：复述故事、创编结局、读后手工</p>
+                <p>📌 <strong>推荐类型</strong>：生命教育类、多元文化类、科学类</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 常见问题 -->
+        <div style="margin-top:3rem">
+          <div class="section-title">
+            <h2>❓ 家长常见问题</h2>
+          </div>
+          <div style="max-width:800px;margin:0 auto">
+            <div class="guide-card" style="text-align:left;margin-bottom:1rem">
+              <h4 style="color:var(--primary)">Q: 孩子不爱看书怎么办？</h4>
+              <p style="font-size:0.9rem;color:var(--text-light);margin-top:0.5rem">不要强迫。先从孩子感兴趣的话题入手（恐龙、汽车、公主），选2-3本放在触手可及的地方。你自己也坐下来读书——孩子是模仿的天才。</p>
+            </div>
+            <div class="guide-card" style="text-align:left;margin-bottom:1rem">
+              <h4 style="color:var(--secondary)">Q: 绘本这么贵，怎么选？</h4>
+              <p style="font-size:0.9rem;color:var(--text-light);margin-top:0.5rem">优先选获奖作品（凯迪克、丰子恺等），品质有保障。善用图书馆借阅。买之前先借来读一读，孩子真正喜欢的再买回家。</p>
+            </div>
+            <div class="guide-card" style="text-align:left;margin-bottom:1rem">
+              <h4 style="color:var(--purple)">Q: 中文绘本和外国绘本怎么搭配？</h4>
+              <p style="font-size:0.9rem;color:var(--text-light);margin-top:0.5rem">建议 3:7 到 5:5。中国绘本帮孩子建立文化认同，外国绘本拓展国际视野。丰子恺奖作品是中国原创的品质标杆。</p>
+            </div>
+            <div class="guide-card" style="text-align:left">
+              <h4 style="color:var(--orange)">Q: 电子绘本能替代纸质书吗？</h4>
+              <p style="font-size:0.9rem;color:var(--text-light);margin-top:0.5rem">不能完全替代。纸质书的翻页感、触摸感、亲子间的物理距离都是电子书给不了的。但电子书可以作为补充，比如旅途中使用。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ===== 绘本详情弹窗 ===== -->
+  <div id="book-modal" class="modal-overlay">
+    <div class="modal" id="modal-content"></div>
+  </div>
+
+  <!-- ===== 《3-6发展指南》.doc 站内预览（Office 在线查看） ===== -->
+  <div id="moe-doc-modal" class="modal-overlay moe-doc-modal-overlay">
+    <div class="modal moe-doc-modal" role="dialog" aria-modal="true" aria-labelledby="moe-doc-modal-title">
+      <button type="button" class="modal-close" id="moe-doc-modal-close" aria-label="关闭">&times;</button>
+      <h2 id="moe-doc-modal-title" class="moe-doc-modal-title">《3-6岁儿童学习与发展指南》文档预览</h2>
+      <p class="moe-doc-modal-note">使用微软 Office 网页嵌入预览；请用 <strong>http://</strong> 或 <strong>https://</strong> 打开本站（勿用本地文件双击）。公网部署时预览最稳定；若空白或报错，请直接下载 .doc 用 Word 打开。</p>
+      <div id="moe-doc-frame-wrap" class="moe-doc-frame-wrap">
+        <iframe id="moe-doc-view-frame" class="moe-doc-view-frame" title="发展指南 Word 预览"></iframe>
+      </div>
+      <p id="moe-doc-view-tip" class="moe-doc-view-tip" hidden></p>
+      <p class="moe-doc-modal-dl"><a id="moe-doc-dl-link" href="3-6发展指南.doc" download>下载 3-6发展指南.doc</a></p>
+    </div>
+  </div>
+
+  <!-- ===== 手动添加绘本（仅存本机浏览器） ===== -->
+  <div id="add-book-modal" class="modal-overlay">
+    <div class="modal modal--wide">
+      <button type="button" class="modal-close" id="add-book-modal-close" aria-label="关闭">&times;</button>
+      <h2 class="add-book-modal-title">手动添加绘本</h2>
+      <p class="add-book-modal-desc">信息保存在本机浏览器，不会上传服务器；换设备或清除站点数据后会丢失，重要书单请自行备份。</p>
+      <form id="form-add-book" class="form-add-book">
+        <div class="form-row">
+          <label for="add-title">书名 <span class="req">*</span></label>
+          <input id="add-title" name="title" type="text" required maxlength="120" placeholder="例如：第一次上街买东西" autocomplete="off">
+        </div>
+        <div class="form-row">
+          <label for="add-author">作者</label>
+          <input id="add-author" name="author" type="text" maxlength="80" placeholder="可留空">
+        </div>
+        <div class="form-row form-row--2">
+          <div>
+            <label for="add-age">适读年龄</label>
+            <select id="add-age" name="age">
+              <option value="3-4">3-4 岁（小班）</option>
+              <option value="3-5">3-5 岁</option>
+              <option value="3-6" selected>3-6 岁（全年龄）</option>
+              <option value="4-5">4-5 岁（中班）</option>
+              <option value="4-6">4-6 岁</option>
+              <option value="5-6">5-6 岁（大班）</option>
+            </select>
+          </div>
+          <div>
+            <label>出版地</label>
+            <div class="form-radios">
+              <label><input type="radio" name="origin" value="中国" checked> 中国</label>
+              <label><input type="radio" name="origin" value="外国"> 外国</label>
+            </div>
+          </div>
+        </div>
+        <div class="form-row">
+          <span class="form-label-block">主题（可多选）</span>
+          <div id="add-book-themes" class="add-book-themes"></div>
+        </div>
+        <div class="form-row">
+          <label for="add-summary">内容简介</label>
+          <textarea id="add-summary" name="summary" rows="3" maxlength="500" placeholder="一句话简介即可"></textarea>
+        </div>
+        <div class="form-row">
+          <label for="add-why">为什么想读 / 推荐语</label>
+          <textarea id="add-why" name="whyRead" rows="2" maxlength="300" placeholder="可选"></textarea>
+        </div>
+        <div class="form-row">
+          <label for="add-tips">共读小贴士</label>
+          <textarea id="add-tips" name="readingTips" rows="2" maxlength="300" placeholder="可选，默认通用提示"></textarea>
+        </div>
+        <p id="add-book-form-msg" class="form-msg" role="status"></p>
+        <div class="form-actions">
+          <button type="submit" class="btn-add-book-submit">保存到本机书库</button>
+          <button type="button" class="btn-add-book-cancel" id="add-book-cancel">取消</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- 未读/进行中多选 → 批量标记（进度存本机浏览器） -->
+  <div id="read-batch-bar" class="read-batch-bar" hidden>
+    <span id="read-batch-count" class="read-batch-count"></span>
+    <button type="button" id="read-batch-submit-partial" class="read-batch-btn read-batch-btn--partial">将选中未读标为进行中</button>
+    <button type="button" id="read-batch-submit" class="read-batch-btn read-batch-btn--primary">将选中标为已读</button>
+    <button type="button" id="read-batch-clear" class="read-batch-btn">清除选择</button>
+    <span class="read-batch-hint">仅保存在本机浏览器</span>
+  </div>
+
+  <!-- ===== 页脚 ===== -->
+  <footer class="footer">
+    <div class="footer-content">
+      <h3>📚 豆豆绘本馆</h3>
+      <p>为 3-6 岁小朋友精选的绘本宝库</p>
+      <p>收录约 487 册实体绘本（188 条书目，套装按册累计）· 多维度成长主题 · 亲子共读指南</p>
+      <p style="font-size:0.78rem;color:#718096;margin-top:6px">📅 最近更新：<span id="last-update">2026-04-15</span></p>
+      <div class="footer-links">
+        <a href="#" data-page="home">首页</a>
+        <a href="#" data-page="library" data-read="all">我的书库</a>
+        <a href="#" data-page="theme">按主题</a>
+        <a href="#" data-page="award">获奖专区</a>
+        <a href="#" data-page="chinese">中国原创</a>
+        <a href="#" data-page="curated">网上新书</a>
+        <a href="#" data-page="guide">共读指南</a>
+        <a href="#" data-page="news">教育资讯</a>
+      </div>
+    </div>
+  </footer>
+
+    </main>
+  </div>
+
+  <!-- ===== 回到顶部 ===== -->
+  <button class="back-to-top" title="回到顶部">↑</button>
+
+  <!-- ===== 脚本 ===== -->
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
